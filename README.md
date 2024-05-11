@@ -33,7 +33,7 @@ I am a passionate and dedicated Full Stack Developer with expertise in a variety
 
 ### Contact Me
 
-Feel free to reach out to me via email at [your.careeroffaisal@gmail.com](mailto:careeroffaisal@gmail.com) for collaboration or any inquiries. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/faisal-mushtaq-835267170/) to stay updated on my latest projects and activities.
+Feel free to reach out to me via email at [careeroffaisal@gmail.com](mailto:careeroffaisal@gmail.com) for collaboration or any inquiries. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/faisal-mushtaq-835267170/) to stay updated on my latest projects and activities.
 
 Let's build something amazing together! 🚀
 
